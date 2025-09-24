@@ -5,7 +5,7 @@
 - ⚡ I’m commited to continuous learning and professional growth.
 - ❤️ Proud papa to an adorable little boy (he insists he’s a “big boy” now!)
 - 🥘 I love making pizza and croquetas
-- 📫 You can view more about me here: aperezhernand.carrd.co
+- 📫 You can view more about me here: [aperezhernan.carrd.co]
 
 <!--
 **aperezhernan/aperezhernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
