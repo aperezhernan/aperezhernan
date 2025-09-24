@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**aperezhernan/aperezhernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi! I'm Alex Pérez!
+## Hi! I'm Alex Pérez! 👋
 
 - 😄 I’m a data analyst with a good knowledge in visual storytelling and communication
 - 🌱 I’m a big fan of Excel, SQL, Power BI and Pandas!
@@ -11,3 +6,8 @@ Hi! I'm Alex Pérez!
 - ❤️ Proud papa of a lovely kiddo.
 - 📫 You can view more about me here: aperezhernand.carrd.co
 - 🥘 I love making pizza and croquetas
+
+<!--
+**aperezhernan/aperezhernan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
